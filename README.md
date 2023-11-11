@@ -12,6 +12,8 @@ Los indicados en el repo base.
 
 - Archivo README.md en el directorio raiz.
 - En la carpeta /src el código fuente ordenado.
+- En la carpeta /modelosUML el código fuente de los diagramas UML presentados.
+  - Estos diagramas se revisarán exportados en .svg
 - Carpeta /images con archivos de imágenes (si los considera necesarios).
   - Use el formato .svg para diagramas y png para imágenes.
 - Documentos extra en la carpeta /documentos.
