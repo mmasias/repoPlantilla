@@ -2,7 +2,7 @@
 
 ## Enunciado del examen
 
-En el repo base, pertinente, a indicar por el profesor.
+En el repo base pertinente, a indicar por el profesor.
 
 ## Retos
 
