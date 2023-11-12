@@ -1,22 +1,38 @@
-# Repo plantilla para exámenes [PRG1/EDA1/IDSW1]
+# Repo plantilla para exámenes [PRG1|EDA1|IDSW1]@gII.uneatlantico
 
 ## Enunciado del examen
 
-En el repo base pertinente, a indicar por el profesor.
+En el repo de la asignatura, carpeta **/evaluaciones**, apartado del examen correspondiente.
+
+## Entrega del examen
+
+En este repositorio.
 
 ## Retos
 
-Los indicados en el repo base.
+Los indicados en el enunciado
 
-### Se debe entregar
+### Qué se debe entregar
 
-- Archivo README.md en el directorio raiz.
-- En la carpeta /src el código fuente ordenado.
-- En la carpeta /modelosUML el código fuente de los diagramas UML presentados.
-  - Estos diagramas se revisarán exportados en .svg
-- Carpeta /images con archivos de imágenes (si los considera necesarios).
-  - Use el formato .svg para diagramas y png para imágenes.
-- Documentos extra en la carpeta /documentos.
+Indicado de modo específico en el enunciado. Además, con carácter general se debe cumplir con:
+
+||||
+|-|-|-|
+|1|Archivo README.md|Debe estar ubicado en el directorio raíz del proyecto.
+|2|Código fuente|Ordenado dentro de la carpeta **/src**.
+|3|Diagramas UML|
+| ||Archivos fuente en la carpeta **/modelosUML**.
+| ||Diagramas exportados en formato .svg en la carpeta **/images**. 
+|4|Imágenes 
+| ||Si considera necesario incluirlas, deben estar en la carpeta **/images**.
+| ||Para diagramas use el formato .svg y para imágenes comunes, el formato .png.
+|5|Documentación adicional|En la carpeta **/documents**.
+
+---
+
+Obligatorios según el examen|Opcionales a su consideración
+|-|-|
+Los puntos 2 (código fuente), 3 (diagramas UML) y 4 (imágenes) son imprescindibles y deben incluirse siempre, pero únicamente si el enunciado del examen los solicita.|Usted tiene la libertad de decidir si incluir o no los elementos mencionados anteriormente (puntos 2, 3 y 4) junto con los Documentos Adicionales (punto 5), si estos no son explícitamente requeridos en el enunciado del examen. Su inclusión es facultativa y debe basarse en su criterio sobre la relevancia o aporte que estos elementos puedan tener para el trabajo presentado.
 
 ### Se valorará
 
@@ -31,6 +47,6 @@ Los indicados en el repo base.
 
 |||
 |-|-|
-Planificación| Planifique su enfoque antes de empezar a codificar. Esto puede incluir la creación de diagramas de clases o pseudocódigo. Lo puede aportar en su repo, enlazado desde el README.md
-Documentación|En dicho README.md puede explicar cómo cada parte contribuye a la simulación general del juego.
-Reflexión sobre delegación de responsabilidades|Pensar bien sobre cómo asignaron responsabilidades a diferentes clases/objetos y cómo esto afecta la claridad y eficiencia del código.
+Planificación| Planifique su enfoque utilizando diagramas, esquemas, estados y/o pseudocódigo. Lo puede aportar en su repo, como diagrama o como imagen (foto), en la carpeta adecuada y enlazado desde el README.md
+Documentación|En dicho README.md puede explicar cómo cada parte contribuye a la solución general. Por favor, no ponga comentarios a su código: ¡que el código se autoexplique!
+Delegación de responsabilidades|Dedíquele un momento a reflexionar sobre cómo reparte las responsabilidades entre los diferentes elementos de su código (métodos, clases, objetos) y cómo esto afecta la claridad y eficiencia de su solución.
