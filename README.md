@@ -1,4 +1,4 @@
-# Repo plantilla para exámenes
+# Repo plantilla para exámenes [PRG1/EDA1/IDSW1]
 
 ## Enunciado del examen
 
