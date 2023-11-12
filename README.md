@@ -32,7 +32,7 @@ Indicado de modo específico en el enunciado. Además, con carácter general se 
 
 Obligatorios según el examen|Opcionales a su consideración
 |-|-|
-Los puntos 2 (código fuente), 3 (diagramas UML) y 4 (imágenes) son imprescindibles y deben incluirse siempre, pero únicamente si el enunciado del examen los solicita.|Usted tiene la libertad de decidir si incluir o no los elementos mencionados anteriormente (puntos 2, 3 y 4) junto con los Documentos Adicionales (punto 5), si estos no son explícitamente requeridos en el enunciado del examen. Su inclusión es facultativa y debe basarse en su criterio sobre la relevancia o aporte que estos elementos puedan tener para el trabajo presentado.
+Los puntos 2 (código fuente), 3 (diagramas UML) y 4 (imágenes) son imprescindibles y deben incluirse siempre, pero únicamente si el enunciado del examen los solicita.|Usted tiene la libertad de decidir si incluir o no los elementos mencionados anteriormente (puntos 2, 3 y 4) junto con los documentos adicionales (punto 5), si estos no son explícitamente requeridos en el enunciado del examen. Su inclusión es facultativa y debe basarse en su criterio sobre la relevancia o aporte que estos elementos puedan tener para el trabajo presentado.
 
 ### Se valorará
 
