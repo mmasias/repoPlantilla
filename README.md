@@ -6,11 +6,11 @@ En el repo de la asignatura, carpeta **/evaluaciones**, apartado del examen corr
 
 ## Entrega del examen
 
-En este repositorio.
+En el repositorio destinado para tal fin en el examen.
 
 ## Retos
 
-Los indicados en el enunciado
+Los indicados en el enunciado del examen.
 
 ### Qué se debe entregar
 
@@ -20,11 +20,9 @@ Indicado de modo específico en el enunciado. Además, con carácter general se 
 |-|-|-|
 |1|Archivo README.md|Debe estar ubicado en el directorio raíz del proyecto.
 |2|Código fuente|Ordenado dentro de la carpeta **/src**.
-|3|Diagramas UML|
-| ||Archivos fuente en la carpeta **/modelosUML**.
+|3|Diagramas UML|Archivos fuente en la carpeta **/modelosUML**.
 | ||Diagramas exportados en formato .svg en la carpeta **/images**. 
-|4|Imágenes 
-| ||Si considera necesario incluirlas, deben estar en la carpeta **/images**.
+|4|Imágenes|Si considera necesario incluirlas, deben estar en la carpeta **/images**.
 | ||Para diagramas use el formato .svg y para imágenes comunes, el formato .png.
 |5|Documentación adicional|En la carpeta **/documents**.
 
