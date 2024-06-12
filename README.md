@@ -1,4 +1,4 @@
-# Repo plantilla para exámenes [PRG1|EDA1|IDSW1]@gII.uneatlantico
+# Repo plantilla para exámenes [PRG*x*|EDA*x*|IDSW*x*]@gII.uneatlantico
 
 ## Enunciado del examen
 
